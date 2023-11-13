@@ -1,0 +1,14 @@
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\bin\Debug\net7.0\07.CreateTableFromDataView.exe
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\bin\Debug\net7.0\07.CreateTableFromDataView.deps.json
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\bin\Debug\net7.0\07.CreateTableFromDataView.runtimeconfig.json
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\bin\Debug\net7.0\07.CreateTableFromDataView.dll
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\bin\Debug\net7.0\07.CreateTableFromDataView.pdb
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\07.CreateTableFromDataView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\07.CreateTableFromDataView.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\07.CreateTableFromDataView.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\07.CreateTableFromDataView.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\07.CreateTableFromDataView.dll
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\refint\07.CreateTableFromDataView.dll
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\07.CreateTableFromDataView.pdb
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\07.CreateTableFromDataView.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson35.Dapper\07.CreateTableFromDataView\obj\Debug\net7.0\ref\07.CreateTableFromDataView.dll
